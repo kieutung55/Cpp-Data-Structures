@@ -1,0 +1,30 @@
+Input: [4*{2+3}/(8-3]]
+Valid Parentheses: No
+No Double Parentheses: Yes
+Correct Order: No
+----------------------
+Input: [4*{1+4}/(9-4]
+Valid Parentheses: No
+No Double Parentheses: Yes
+Correct Order: No
+----------------------
+Input: }2+3*8-(9/9{+0}
+Valid Parentheses: No
+No Double Parentheses: Yes
+Correct Order: No
+----------------------
+Input: {9+{{3-3}}+1}
+Valid Parentheses: Yes
+No Double Parentheses: No
+Correct Order: Yes
+----------------------
+Input: (3+[2*2])
+Valid Parentheses: Yes
+No Double Parentheses: Yes
+Correct Order: No
+----------------------
+Input: {3+3}-[2*{1-0}+0]
+Valid Parentheses: Yes
+No Double Parentheses: Yes
+Correct Order: No
+----------------------
