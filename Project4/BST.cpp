@@ -1,7 +1,3 @@
-// Tung Kieu
-// COSC 2436
-// Professor Rizk
-
 #include <algorithm>
 #include <vector>
 #include <string>
